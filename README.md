@@ -19,7 +19,7 @@ Configure OpenVPN on Mikrotik professionally(Site-to-Client)
  4- Forth, we will create the L2TP server, profile and secret credentials for the user who will connect to this VPN server.
  
   - Creation of the L2TP server using IPsec pre-shared key. `PPP->Interface->L2TP Server`
-![OVPNSERVER](https://user-images.githubusercontent.com/44748406/192100634-bdc14c96-2590-465c-8120-3451949f4be0.png)
+![l2tpserver](https://user-images.githubusercontent.com/44748406/192973268-1b25efae-35ee-446c-91b5-f12ed98b8e73.png)
 
   - Creation of the profile which holds the encryption. `PPP->Profiles`
 ![profiles](https://user-images.githubusercontent.com/44748406/192974310-71bc6ae5-c73c-45ee-bc34-b57b7a31bb15.png)
