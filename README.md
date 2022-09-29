@@ -1,5 +1,5 @@
 # L2TP/IPSec on Mikrotik by Gabriel Lami
-Configure L2TP/IPSec on Mikrotik professionally(Site-to-Client)
+Configure L2TP/IPsec on Mikrotik professionally(Site-to-Client)
 
 1- First, we choose and create a network for the VPN clients. In this tutorial I will use `192.168.40.0/24`. Than we will create the bridge and IP Pool.
  - Creation of the bridge where the network addresses will be added. `Bridge->Create new bridge`
