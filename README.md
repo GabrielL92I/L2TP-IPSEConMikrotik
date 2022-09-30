@@ -42,7 +42,7 @@ Configure L2TP/IPsec on Mikrotik professionally(Site-to-Client)
     `Password` - Fill the password you created in Secrets
     
     Click Save.
-    ![client](https://user-images.githubusercontent.com/44748406/192976313-ddf15e26-a470-4a66-9768-0cc4fdd1ce8f.png)
+ [   ![client](https://user-images.githubusercontent.com/44748406/192976313-ddf15e26-a470-4a66-9768-0cc4fdd1ce8f.png)](https://github.com/GabrielL92I/L2TP-IPsec-on-Mikrotik/issues/1#issuecomment-1261917704)
      
      Good job, you should be now connected! If not, check the steps again because you might have done any mistake.
     ![connected](https://user-images.githubusercontent.com/44748406/192976634-7b17902e-d7ae-479d-9cc1-212b612ee9ab.png)
