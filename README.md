@@ -16,7 +16,7 @@ Configure L2TP/IPsec on Mikrotik professionally(Site-to-Client)
 - Creation of the NAT rule(only if you don't have this rule already). `IP->Firewall->NAT`
 ![NATRULE](https://user-images.githubusercontent.com/44748406/192098130-ac7b040a-7afe-4d5c-94d7-da9df854b818.png)
   
- 4- Forth, we will create the L2TP server, profile and secret credentials for the user who will connect to this VPN server.
+ 3- Forth, we will create the L2TP server, profile and secret credentials for the user who will connect to this VPN server.
  
   - Creation of the L2TP server using IPsec pre-shared key. `PPP->Interface->L2TP Server`
 ![l2tpserver](https://user-images.githubusercontent.com/44748406/192973268-1b25efae-35ee-446c-91b5-f12ed98b8e73.png)
@@ -27,7 +27,7 @@ Configure L2TP/IPsec on Mikrotik professionally(Site-to-Client)
   - Creation of the user credentials which will be used to connect to the VPN server. `PPP->Secrets`
 ![secret](https://user-images.githubusercontent.com/44748406/192974649-e5020074-1fa6-4044-95e1-8b2fcb6902c0.png)
 
- 5- In this last step we will configure L2TP client to be able to connect through VPN
+ 4- In this last step we will configure L2TP client to be able to connect through VPN
  
     You can do this by going into Settings->Network & internet->VPN->Add a new VPN
     
