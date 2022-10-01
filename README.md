@@ -62,5 +62,6 @@ Configure L2TP/IPsec on Mikrotik professionally(Site-to-Client)
       1- Speed(less faster than OpenVPN because of the double encapsulation)
       2- Port Support(limited number of ports makes it easy for the ports to be blocked behind a firewall) 
       3- Trust(L2TP/IPSec was developed by Cisco and Microsoft, which raises questions about trust)
-     
+      4- Only one connection at the same time is allowed
+      
      Thank you.
